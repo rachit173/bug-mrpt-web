@@ -1,0 +1,6 @@
+/home/darthvaddr/Desktop/bug/build/CMakeFiles/rebuild_cache.dir
+/home/darthvaddr/Desktop/bug/build/CMakeFiles/edit_cache.dir
+/home/darthvaddr/Desktop/bug/build/rawlog-viewer/CMakeFiles/edit_cache.dir
+/home/darthvaddr/Desktop/bug/build/rawlog-viewer/CMakeFiles/rebuild_cache.dir
+/home/darthvaddr/Desktop/bug/build/rawlog-viewer/CMakeFiles/rawlog_app.dir
+/home/darthvaddr/Desktop/bug/build/rawlog-viewer/CMakeFiles/rawlog-viewer.dir
