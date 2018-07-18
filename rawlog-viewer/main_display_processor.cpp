@@ -179,6 +179,7 @@ void mainDisplayProcessor(const mrpt::serialization::CSerializable::Ptr& sel_obj
 
     if (classID == CLASS_ID(CActionRobotMovement2D))
     {
+      std::cout<<"CActionRobotMovement2D" << std::endl;
       // ----------------------------------------------------------------------
       //              CActionRobotMovement2D
       // ----------------------------------------------------------------------
@@ -264,7 +265,7 @@ void mainDisplayProcessor(const mrpt::serialization::CSerializable::Ptr& sel_obj
 
       // // Draw a set of random (x,y,phi) samples:
       /** Needs to be uncommented once problem is resolved */
-      // act->poseChange->drawManySamples(N, samples);
+      act->poseChange->drawManySamples(N, samples);
 
       // Pass to vectors and draw them:
       for (unsigned int i = 0; i < N; i++)
